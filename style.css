@@ -1,0 +1,26 @@
+header {
+  width: 100%;
+  background-color: #fdfdfd;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Alex Brush', cursive;
+  text-shadow: 4px 4px 4px #aaa;
+  padding-left: 25px;
+}
+nav li {
+  list-style: none;
+  display: inline;
+  font-size: 18px;
+  padding: 35px;
+
+}
+main img {
+display:block;
+margin: auto;
+border-radius: 2px;
+opacity: .8;
+
+}
